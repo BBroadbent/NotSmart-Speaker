@@ -1,0 +1,11 @@
+(version 1)
+(rule "Copper to edge clearance 1"
+	(constraint edge_clearance (min 0.2mm))
+)
+(rule "Hole to hole distance 1"
+	(constraint hole_to_hole (min 0.45mm))
+)
+(rule "Minimum text height and thickness 1"
+	(constraint text_height (min 1.016mm))
+	(constraint text_thickness (min 0.1524mm))
+)
