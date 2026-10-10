@@ -4404,6 +4404,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM21BR61H106KE43K"
+			(at 35.56 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "909a28a3-8f90-469c-af1f-50689f8ed5e2")
 		)
@@ -4486,6 +4497,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CL21B225KAFNNNE"
+			(at 60.96 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f5a85dd7-b12d-4380-b054-9668e95040ff")
 		)
@@ -4558,6 +4580,17 @@
 			)
 		)
 		(property "Description" "2.1 VRMS, 100dB Audio Stereo DAC with PLL and 32-bit, 384kHz PCM Interface, TSSOP-20"
+			(at 43.18 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "PCM5100APWR"
 			(at 43.18 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -4704,6 +4737,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "RC0805FR-0710KL"
+			(at 38.1 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b0b2fb91-d11c-4f64-b15b-c333747d1a2f")
 		)
@@ -4776,6 +4820,17 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 250.19 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "EEH-ZS1H221P "
 			(at 250.19 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -4994,7 +5049,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 91.44 57.1499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5028,6 +5083,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 87.63 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "885012207098R"
 			(at 87.63 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -5110,6 +5176,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 243.84 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "885012208092"
 			(at 243.84 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -5281,6 +5358,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM31CR71E106MA12L"
+			(at 237.49 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2bbe21c7-f026-4079-a96d-c2ca25fbdce3")
 		)
@@ -5352,6 +5440,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 153.67 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM219R61H105MA73D"
+			(at 153.67 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5440,6 +5539,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CL21B225KBYNNWE"
+			(at 223.52 43.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "af1273af-7f80-4137-8ab6-28c57992d721")
 		)
@@ -5510,6 +5620,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 166.37 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM219R61H105MA73D"
+			(at 166.37 48.26 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5601,6 +5722,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CL21B225KAFNNNE"
+			(at 59.69 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "15c6bb1a-0764-4b34-a923-b0a982732a31")
 		)
@@ -5673,6 +5805,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 77.47 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM21BR61H106KE43K"
 			(at 77.47 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -6001,6 +6144,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "EEH-ZS1H221P "
+			(at 250.19 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e0971b96-b84a-4677-b37e-4b1fa43b481b")
 		)
@@ -6083,6 +6237,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "08055C103KAT2A"
+			(at 274.32 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0ad87ae3-9b83-470b-af63-d20580255150")
 		)
@@ -6155,6 +6320,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 274.32 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "08055C103KAT2A"
 			(at 274.32 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -6315,6 +6491,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 138.43 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CRCW080512K0JNEA"
 			(at 138.43 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -6736,6 +6923,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "885012208092"
+			(at 243.84 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2dfa7719-061c-40ae-9237-30458f8bad26")
 		)
@@ -6808,6 +7006,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 39.37 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RC0805FR-0710KL"
 			(at 39.37 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -7247,7 +7456,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 73.66 69.8499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7281,6 +7490,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 69.85 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "885012207098R"
 			(at 69.85 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -7373,6 +7593,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM31CR71E106MA12L"
+			(at 237.49 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2aa1ecb7-980f-43aa-be5c-f541b470dcec")
 		)
@@ -7445,6 +7676,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 93.98 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RC0805FR-0710KL"
 			(at 93.98 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -7605,6 +7847,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 161.29 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CRCW08050000ZSTC"
 			(at 161.29 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -7853,6 +8106,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "885012207086"
+			(at 257.81 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8bd1a62f-69e5-4519-9503-02516b3f2894")
 		)
@@ -7935,6 +8199,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "885012207086"
+			(at 257.81 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "bafd8afc-aa43-46cc-8f99-1bb28c3928be")
 		)
@@ -8006,6 +8281,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 73.66 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CR0805-JW-471ELF"
+			(at 73.66 41.91 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8173,6 +8459,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CR0805-JW-471ELF"
+			(at 73.66 44.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a33589ad-e732-43de-be68-b8268638db73")
 		)
@@ -8245,6 +8542,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 138.43 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RC0805FR-0710KL"
 			(at 138.43 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -8371,7 +8679,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 50.8 88.8999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8405,6 +8713,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 46.99 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "885012207098R"
 			(at 46.99 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -9198,6 +9517,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CL21B225KBYNNWE"
+			(at 223.52 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7634e28c-3a4f-4820-a93b-148f81e08fe3")
 		)
@@ -9236,7 +9566,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 91.44 41.9099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9270,6 +9600,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 87.63 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "885012207098R"
 			(at 87.63 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -9318,7 +9659,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 29.21 88.8999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9352,6 +9693,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 25.4 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "885012207098R"
 			(at 25.4 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -9441,6 +9793,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CL21B225KBYNNWE"
+			(at 223.52 53.34 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d47f58f2-fe7b-4310-b55c-e979a917cca9")
 		)
@@ -9479,7 +9842,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 228.6 87.6299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9513,6 +9876,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 224.79 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "885012207098R"
 			(at 224.79 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -9561,7 +9935,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 71.12 88.8999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9595,6 +9969,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 67.31 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "885012207098R"
 			(at 67.31 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -9684,6 +10069,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CL21B225KBYNNWE"
+			(at 223.52 68.58 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f97ae69b-0e20-4f2d-a4ed-87ada5f5ec1b")
 		)
@@ -9722,7 +10118,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 228.6 30.4799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9756,6 +10152,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 224.79 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "885012207098R"
 			(at 224.79 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -9927,6 +10334,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM21BR61H106KE43K"
+			(at 80.01 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "304dcb06-6e98-44ec-88fc-4abbfbd3baf9")
 		)
@@ -9999,6 +10417,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 57.15 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM21BR61H106KE43K"
 			(at 57.15 87.63 0)
 			(hide yes)
 			(show_name no)

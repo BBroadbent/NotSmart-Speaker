@@ -8126,6 +8126,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "RC0805FR-0710KL"
+			(at 39.37 312.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0d3c5b60-0546-4978-bdf8-b84107e0c3bb")
 		)
@@ -8354,6 +8365,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 130.81 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CR0805-FX-4701ELF"
 			(at 130.81 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -8603,6 +8625,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM219R61H105MA73D"
+			(at 177.8 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1f5ce81f-7736-43e8-9844-3bca72a21ec7")
 		)
@@ -8624,10 +8657,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "09c644f9-9264-41ff-aca5-4a85b4c63580")
 		(property "Reference" "TP2"
@@ -9163,6 +9196,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "SN74LV1T34DBVRG4"
+			(at 149.86 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "4"
 			(uuid "82be17c8-0513-407d-b26f-dfce583ac813")
 		)
@@ -9244,6 +9288,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 231.14 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AC0805FR-101KL"
 			(at 231.14 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -9338,6 +9393,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 231.14 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "LTST-S220KGKT"
+			(at 231.14 83.82 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9498,6 +9564,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 121.92 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CR0805-FX-4701ELF"
 			(at 121.92 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -9755,6 +9832,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "AC0805FR-101KL"
+			(at 220.98 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d2723460-958b-47f9-9797-37ac1a2405e9")
 		)
@@ -9915,6 +10003,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "885012207098R"
+			(at 99.06 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7d611fcc-06ed-4cd4-a596-87e62a4a9552")
 		)
@@ -9987,6 +10086,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 17.78 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM219R61H105MA73D"
 			(at 17.78 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -10158,6 +10268,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM219R61H105MA73D"
+			(at 31.75 335.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fba17c1f-937e-47b6-bb56-4eca04209a8e")
 		)
@@ -10257,10 +10378,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "4cdb996a-8f9d-47ff-8c6d-5663a5a68bcf")
 		(property "Reference" "TP5"
@@ -10412,10 +10533,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "4ed4e05e-5aba-4939-a1b7-1540e204cf0b")
 		(property "Reference" "TP3"
@@ -10550,6 +10671,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM219R61H105MA73D"
+			(at 116.84 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9a5416a2-0b2e-4f00-9571-ed296cb7cb54")
 		)
@@ -10632,6 +10764,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "08055A180JAT4A"
+			(at 229.87 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "57f667ec-fefa-46e4-bae3-74c88eefc7e2")
 		)
@@ -10704,6 +10847,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 179.07 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "885012207095"
 			(at 179.07 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -10946,6 +11100,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "RC0805FR-0710KL"
+			(at 87.63 314.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "71210168-a0c6-478b-b7f8-ed87724d3f5d")
 		)
@@ -11016,6 +11181,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 53.34 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CRCW08050000ZSTC"
+			(at 53.34 38.1 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11124,10 +11300,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "62b1ca96-07aa-4398-9b74-138f91ab758a")
 		(property "Reference" "TP4"
@@ -11264,6 +11440,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 251.46 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "150080BS75000"
+			(at 251.46 83.82 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11431,6 +11618,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "621-AP2112K-3.3TRG1 "
+			(at 130.81 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "5"
 			(uuid "21c65e96-c982-4acb-9f6e-1efb00e1672f")
 		)
@@ -11510,6 +11708,17 @@
 			)
 		)
 		(property "Description" "600mA low dropout linear regulator, with enable pin, 3.8V-6V input voltage range, 3.3V fixed positive output, SOT-23-5"
+			(at 167.64 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "621-AP2112K-3.3TRG1 "
 			(at 167.64 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -11687,6 +11896,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "RC0805FR-0710KL"
+			(at 74.93 34.29 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "03044b5d-ff93-4279-8771-74130080b4c7")
 		)
@@ -11758,6 +11978,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 53.34 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CRCW08050000ZSTC"
+			(at 53.34 35.56 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12086,6 +12317,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "USBLC6-2SC6"
+			(at 76.2 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "5"
 			(uuid "9a232f04-bdc3-4dda-8f58-ad19c824b438")
 		)
@@ -12365,6 +12607,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "LTST-S220KGKT"
+			(at 220.98 83.82 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "55944215-7dfb-4fba-92af-625437c13ef9")
 		)
@@ -12620,10 +12873,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "a59eef31-c4ef-4112-81df-3609dd54870a")
 		(property "Reference" "TP1"
@@ -12803,6 +13056,17 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+			)
+		)
+		(property "Manufacturer_Part_Number" "UJ20-C-H-G-SMT-2-P16-TR "
+			(at 29.21 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "B6"
@@ -13235,6 +13499,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "AC0805FR-101KL"
+			(at 241.3 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3684f674-e133-4930-9b1d-0254d9c183e0")
 		)
@@ -13317,6 +13592,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CR0805-FX-4701ELF"
+			(at 113.03 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7f4882a7-e957-47ce-8db8-43b208d5a5dd")
 		)
@@ -13389,6 +13675,17 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 199.39 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "1751248"
 			(at 199.39 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -13724,6 +14021,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "ESP32-S3-WROOM-1-N8R8"
+			(at 59.69 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "c4bb24ec-2400-4a7f-bdbe-4a3fd17b33ea")
 		)
@@ -13923,6 +14231,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "MLASL21GBB5476MTNA01"
+			(at 251.46 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fe9cf454-426b-46a4-97fc-d916050959e8")
 		)
@@ -13995,6 +14314,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 168.91 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM21BR61H106KE43K"
 			(at 168.91 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -14165,6 +14495,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "AC0805FR-101KL"
+			(at 251.46 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3ae05230-1a1d-4471-947e-53ff483d437f")
 		)
@@ -14237,6 +14578,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 140.97 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM219R61H105MA73D"
 			(at 140.97 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -14497,6 +14849,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "LTST-C171YKT"
+			(at 241.3 83.82 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "078e31ec-1383-4845-b076-3c2450acb571")
 		)
@@ -14569,6 +14932,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 157.48 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "885012207098R"
 			(at 157.48 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -14817,6 +15191,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM219R61H105MA73D"
+			(at 153.67 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6396ba1b-09ae-45fa-a9d8-a4cb9bdb3a6b")
 		)
@@ -14888,6 +15273,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 210.82 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "885012207098R"
+			(at 210.82 29.21 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15046,6 +15442,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 163.83 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CRCW0805330RJNEA"
+			(at 163.83 138.43 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15560,6 +15967,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "ERJ-PB6B8201V"
+			(at 240.03 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6a87158d-17cd-4baa-8752-a8c856a6cfa6")
 		)
@@ -15786,6 +16204,17 @@
 			)
 		)
 		(property "Description" "3.8-30V, 3A Synchronous Buck Converters with pulse frequency modulation (PFM), SOT583-8"
+			(at 195.58 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "TPS62933ODRLR"
 			(at 195.58 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -16122,6 +16551,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 240.03 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-PB6B4302V"
 			(at 240.03 40.64 0)
 			(hide yes)
 			(show_name no)
